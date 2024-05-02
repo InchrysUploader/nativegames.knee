@@ -499,7 +499,7 @@
   },
   {
     "name": "Drift Boss",
-    "image": "media/cover-start.jpg",
+    "image": "media/drift.jpeg",
     "url": "public/drift-boss",
     "new": false
   },
@@ -1238,7 +1238,7 @@
   {
     "name": "Spank The Monkey",
     "image": "spank-the-monkey.jpg",
-    "url": "public/slap-the-monkey",
+    "url": "public/spank-the-monkey",
     "new": false
   },
   {
