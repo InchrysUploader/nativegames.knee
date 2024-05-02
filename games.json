@@ -631,7 +631,7 @@
   },
   {
     "name": "Flappy Bird",
-    "image": "img/thumb.png",
+    "image": "img/logo.png",
     "url": "public/flappybird",
     "new": false
   },
