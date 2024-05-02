@@ -266,559 +266,559 @@
   {
     "name": "Bob the Robber 2",
     "image": "splash.jpeg",
-    "url": "bobtherobber2",
+    "url": "public/bobtherobber2",
     "new": false
   },
   {
     "name": "Boxhead 2 Play",
     "image": "boxhead2play.jpg",
-    "url": "boxhead2play",
+    "url": "public/boxhead2play",
     "new": false
   },
   {
     "name": "Boxing Random",
     "image": "512x512.jpg",
-    "url": "boxing-random",
+    "url": "public/boxing-random",
     "new": false
   },
   {
     "name": "Breaking the Bank",
     "image": "breakingthebank.png",
-    "url": "breakingthebank",
+    "url": "public/breakingthebank",
     "new": false
   },
   {
     "name": "BTTS",
     "image": "images.png",
-    "url": "btts",
+    "url": "public/btts",
     "new": false
   },
   {
     "name": "Burger and Frights",
     "image": "splash.png",
-    "url": "burger-and-frights",
+    "url": "public/burger-and-frights",
     "new": false
   },
   {
     "name": "Cannon Basketball 4",
     "image": "img/splash.png",
-    "url": "cannon-basketball-4",
+    "url": "public/cannon-basketball-4",
     "new": false
   },
   {
     "name": "Canyon Defense",
     "image": "canyondefense.png",
-    "url": "canyondefense",
+    "url": "public/canyondefense",
     "new": false
   },
   {
     "name": "Cars Simulator",
     "image": "splash.png",
-    "url": "cars-simulator",
+    "url": "public/cars-simulator",
     "new": false
   },
   {
     "name": "Cell Machine",
     "image": "img/te9nDu.png",
-    "url": "cell-machine",
+    "url": "public/cell-machine",
     "new": false
   },
   {
     "name": "Champion Island",
     "image": "splash.png",
-    "url": "champion-island",
+    "url": "public/champion-island",
     "new": false
   },
   {
     "name": "Champion Archer",
     "image": "championarcher.png",
-    "url": "championarcher",
+    "url": "public/championarcher",
     "new": false
   },
   {
     "name": "Chill Radio",
     "image": "img/chill-icon.png",
-    "url": "chill-radio",
+    "url": "public/chill-radio",
     "new": false
   },
   {
     "name": "Chrome Dino",
     "image": "images/default_100_percent/offline/100-error-offline.png",
-    "url": "chrome-dino",
+    "url": "public/chrome-dino",
     "new": false
   },
   {
     "name": "Circlo",
     "image": "img/download.png",
-    "url": "circlo",
+    "url": "public/circlo",
     "new": false
   },
   {
     "name": "Cluster Rush",
     "image": "splash.png",
-    "url": "cluster-rush",
+    "url": "public/cluster-rush",
     "new": false
   },
   {
     "name": "CN Ping Pong",
     "image": "tabletennisultimate.png",
-    "url": "cnpingpong",
+    "url": "public/cnpingpong",
     "new": false
   },
   {
     "name": "Connect 3",
     "image": "connect3.png",
-    "url": "connect3",
+    "url": "public/connect3",
     "new": false
   },
   {
     "name": "Cookie Clicker",
     "image": "cookie1.jpeg",
-    "url": "cookie-clicker",
+    "url": "public/cookie-clicker",
     "new": false
   },
   {
     "name": "Core Ball",
     "image": "pr_source.png",
-    "url": "core-ball",
+    "url": "public/core-ball",
     "new": false
   },
   {
     "name": "Craftmine",
     "image": "images/animal-sheet0.png",
-    "url": "craftmine",
+    "url": "public/craftmine",
     "new": false
   },
   {
     "name": "Creative Kill Chamber",
     "image": "creativekillchamber.jpg",
-    "url": "creativekillchamber",
+    "url": "public/creativekillchamber",
     "new": false
   },
   {
     "name": "Crossy Road",
     "image": "crossyroad.png",
-    "url": "crossyroad",
+    "url": "public/crossyroad",
     "new": false
   },
   {
     "name": "CS:GO Clicker",
     "image": "images/case1.png",
-    "url": "csgo-clicker",
+    "url": "public/csgo-clicker",
     "new": false
   },
   {
     "name": "CTR",
     "image": "logo.png",
-    "url": "ctr",
+    "url": "public/ctr",
     "new": false
   },
   {
     "name": "CTR Holiday",
     "image": "favicon.ico",
-    "url": "ctr-holiday",
+    "url": "public/ctr-holiday",
     "new": false
   },
   {
     "name": "CTR TR",
     "image": "logo.png",
-    "url": "ctr-tr",
+    "url": "public/ctr-tr",
     "new": false
   },
   {
     "name": "Cubefield",
     "image": "assets/unnamed.png",
-    "url": "cubefield",
+    "url": "public/cubefield",
     "new": false
   },
   {
     "name": "Cupcake 2048",
     "image": "favicon.ico",
-    "url": "cupcake2048",
+    "url": "public/cupcake2048",
     "new": false
   },
   {
     "name": "Dante",
     "image": "splash.png",
-    "url": "dante",
+    "url": "public/dante",
     "new": false
   },
   {
     "name": "Deal or No Deal",
     "image": "index.jpg",
-    "url": "deal-or-no-deal",
+    "url": "public/deal-or-no-deal",
     "new": false
   },
   {
     "name": "Death Run 3D",
     "image": "img/death.png",
-    "url": "death-run-3d",
+    "url": "public/death-run-3d",
     "new": false
   },
   {
     "name": "Defend the Tank",
     "image": "images/splash.jpg",
-    "url": "defend-the-tank",
+    "url": "public/defend-the-tank",
     "new": false
   },
   {
     "name": "Doctor Acorn 2",
     "image": "splash.jpg",
-    "url": "doctor-acorn2",
+    "url": "public/doctor-acorn2",
     "new": false
   },
   {
     "name": "Doge 2048",
     "image": "doge1.jpeg",
-    "url": "doge2048",
+    "url": "public/doge2048",
     "new": false
   },
   {
     "name": "Doodle Jump",
     "image": "doodle.png",
-    "url": "doodle-jump",
+    "url": "public/doodle-jump",
     "new": false
   },
   {
     "name": "Double Wires",
     "image": "doublewires.png",
-    "url": "doublewires",
+    "url": "public/doublewires",
     "new": false
   },
   {
     "name": "Dragon vs. Bricks",
     "image": "splash.png",
-    "url": "dragon-vs-bricks",
+    "url": "public/dragon-vs-bricks",
     "new": false
   },
   {
     "name": "Draw the Hill",
     "image": "icons/icon-512.png",
-    "url": "draw-the-hill",
+    "url": "public/draw-the-hill",
     "new": false
   },
   {
     "name": "Drift Boss",
     "image": "media/cover-start.jpg",
-    "url": "drift-boss",
+    "url": "public/drift-boss",
     "new": false
   },
   {
     "name": "Drift Hunters",
     "image": "drift-hunters.png",
-    "url": "drift-hunters",
+    "url": "public/drift-hunters",
     "new": false
   },
   {
     "name": "Drive Mad",
     "image": "logo.jpg",
-    "url": "drive-mad",
+    "url": "public/drive-mad",
     "new": false
   },
   {
     "name": "Duck Life 1",
     "image": "ducklife.png",
-    "url": "ducklife1",
+    "url": "public/ducklife1",
     "new": false
   },
   {
     "name": "Duck Life 2",
     "image": "ducklife2.png",
-    "url": "ducklife2",
+    "url": "public/ducklife2",
     "new": false
   },
   {
     "name": "Duck Life 3",
     "image": "duck.png",
-    "url": "ducklife3",
+    "url": "public/ducklife3",
     "new": false
   },
   {
     "name": "Duck Life 4",
     "image": "splash.jpg",
-    "url": "ducklife4",
+    "url": "public/ducklife4",
     "new": false
   },
   {
     "name": "Edge Surf",
     "image": "splash.png",
-    "url": "edge-surf",
+    "url": "public/edge-surf",
     "new": false
   },
   {
     "name": "Edge Not Found",
     "image": "edge.png",
-    "url": "edgenotfound",
+    "url": "public/edgenotfound",
     "new": false
   },
   {
     "name": "Eel Slap",
     "image": "eel-slap.png",
-    "url": "eel-slap",
+    "url": "public/eel-slap",
     "new": false
   },
   {
     "name": "Elastic Man",
     "image": "elasticman.jpg",
-    "url": "elasticman",
+    "url": "public/elasticman",
     "new": false
   },
   {
     "name": "Endless War 3",
     "image": "endlesswar3.png",
-    "url": "endlesswar3",
+    "url": "public/endlesswar3",
     "new": false
   },
   {
     "name": "Escaping the Prison",
     "image": "escapingtheprison.jpg",
-    "url": "escapingtheprison",
+    "url": "public/escapingtheprison",
     "new": false
   },
   {
     "name": "Evil Glitch",
     "image": "evil.png",
-    "url": "evil-glitch",
+    "url": "public/evil-glitch",
     "new": false
   },
   {
     "name": "Evolution",
     "image": "splash.png",
-    "url": "evolution",
+    "url": "public/evolution",
     "new": false
   },
   {
     "name": "Exo",
     "image": "img/small.jpg",
-    "url": "exo",
+    "url": "public/exo",
     "new": false
   },
   {
     "name": "Factory Balls",
     "image": "images/splash.png",
-    "url": "factoryballs",
+    "url": "public/factoryballs",
     "new": false
   },
   {
     "name": "Fairsquares",
     "image": "index.icon.png",
-    "url": "fairsquares",
+    "url": "public/fairsquares",
     "new": false
   },
   {
     "name": "Fake Virus",
     "image": "icon.png",
-    "url": "fake-virus",
+    "url": "public/fake-virus",
     "new": false
   },
   {
     "name": "Fancy Pants Adventures",
     "image": "fancypantsadventure.png",
-    "url": "fancypantsadventures",
+    "url": "public/fancypantsadventures",
     "new": false
   },
   {
     "name": "Fireboy and Watergirl: Forest Temple",
     "image": "logo.jpeg",
-    "url": "fireboywatergirlforesttemple",
+    "url": "public/fireboywatergirlforesttemple",
     "new": false
   },
   {
     "name": "Flappy 2048",
     "image": "favicon.ico",
-    "url": "flappy-2048",
+    "url": "public/flappy-2048",
     "new": false
   },
   {
     "name": "Flappy Bird",
     "image": "img/thumb.png",
-    "url": "flappybird",
+    "url": "public/flappybird",
     "new": false
   },
   {
     "name": "Flash Tetris",
     "image": "flashtetris.png",
-    "url": "flashtetris",
+    "url": "public/flashtetris",
     "new": false
   },
   {
     "name": "Flippy Fish",
     "image": "2022_10_28_0jt_Kleki.png",
-    "url": "flippy-fish",
+    "url": "public/flippy-fish",
     "new": false
   },
   {
     "name": "Five Nights at Wario's (FNAW)",
     "image": "splash.png",
-    "url": "FNAW",
+    "url": "public/FNAW",
     "new": false
   },
   {
     "name": "Friday Night Funkin'",
     "image": "fnf-icon.jpg",
-    "url": "fridaynightfunkin",
+    "url": "public/fridaynightfunkin",
     "new": false
   },
   {
     "name": "Froggy's Battle",
     "image": "splash.png",
-    "url": "froggys-battle",
+    "url": "public/froggys-battle",
     "new": false
   },
   {
     "name": "Fruit Ninja",
     "image": "FruitNinjaTeaser.jpg",
-    "url": "fruitninja",
+    "url": "public/fruitninja",
     "new": false
   },
   {
     "name": "Frying Nemo",
     "image": "splash.png",
-    "url": "frying-nemo",
+    "url": "public/frying-nemo",
     "new": false
   },
   {
     "name": "Game Inside",
     "image": "img/display.png",
-    "url": "game-inside",
+    "url": "public/game-inside",
     "new": false
   },
   {
     "name": "Generic Fishing Game",
     "image": "splash.png",
-    "url": "generic-fishing-game",
+    "url": "public/generic-fishing-game",
     "new": false
   },
   {
     "name": "Geo Dash",
     "image": "geoscratchicon.png",
-    "url": "geodash",
+    "url": "public/geodash",
     "new": false
   },
   {
     "name": "George and the Printer",
     "image": "img/SnDTEn.png",
-    "url": "georgeandtheprinter",
+    "url": "public/georgeandtheprinter",
     "new": false
   },
   {
     "name": "Getaway Shootout",
     "image": "img/images.jpg",
-    "url": "getaway-shootout",
+    "url": "public/getaway-shootout",
     "new": false
   },
   {
     "name": "Gimme the Airpod",
     "image": "img/logo.png",
-    "url": "gimme-the-airpod",
+    "url": "public/gimme-the-airpod",
     "new": false
   },
   {
     "name": "Glass City",
     "image": "image.png",
-    "url": "glass-city",
+    "url": "public/glass-city",
     "new": false
   },
   {
     "name": "Go Ball",
     "image": "game.jpg",
-    "url": "go-ball",
+    "url": "public/go-ball",
     "new": false
   },
   {
     "name": "Goodnight",
     "image": "goodnight.jpg",
-    "url": "goodnight",
+    "url": "public/goodnight",
     "new": false
   },
   {
     "name": "Google Feud",
     "image": "splash.png",
-    "url": "google-feud",
+    "url": "public/google-feud",
     "new": false
   },
   {
     "name": "Google Snake",
     "image": "img/snake.png",
-    "url": "google-snake",
+    "url": "public/google-snake",
     "new": false
   },
   {
     "name": "Gravity Soccer",
     "image": "splash.png",
-    "url": "gravity-soccer",
+    "url": "public/gravity-soccer",
     "new": false
   },
   {
     "name": "Greybox",
     "image": "ico.png",
-    "url": "greybox",
+    "url": "public/greybox",
     "new": false
   },
   {
     "name": "Grindcraft",
     "image": "img/splash.png",
-    "url": "grindcraft",
+    "url": "public/grindcraft",
     "new": false
   },
   {
     "name": "Hacker Type",
     "image": "logo192.png",
-    "url": "hackertype",
+    "url": "public/hackertype",
     "new": false
   },
   {
     "name": "Handshakes",
     "image": "splaher.png",
-    "url": "handshakes",
+    "url": "public/handshakes",
     "new": false
   },
   {
     "name": "Happy Hop",
     "image": "splash.png",
-    "url": "happy-hop",
+    "url": "public/happy-hop",
     "new": false
   },
   {
     "name": "HBA",
     "image": "hoverbotarena.JPG",
-    "url": "hba",
+    "url": "public/hba",
     "new": false
   },
   {
     "name": "Helicopter",
     "image": "helicopter.png",
-    "url": "helicopter",
+    "url": "public/helicopter",
     "new": false
   },
   {
     "name": "Hex Empire",
     "image": "hexempire.jpg",
-    "url": "hexempire",
+    "url": "public/hexempire",
     "new": false
   },
   {
     "name": "Hextris",
     "image": "images/hextris-logo.png",
-    "url": "hextris",
+    "url": "public/hextris",
     "new": false
   },
   {
     "name": "Hungry Lamu",
     "image": "splash.png",
-    "url": "hungry-lamu",
+    "url": "public/hungry-lamu",
     "new": false
   },
   {
     "name": "Idle Breakout",
     "image": "img/thumbnail.png",
-    "url": "idle-breakout",
+    "url": "public/idle-breakout",
     "new": false
   },
   {
     "name": "Idle Shark",
     "image": "img/sharkgame.png",
-    "url": "idle-shark",
+    "url": "public/idle-shark",
     "new": false
   },
   {
