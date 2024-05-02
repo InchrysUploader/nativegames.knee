@@ -144,6 +144,7 @@ var textOptions = [
   "Yup this is a sigma.",
   "worse than rammerhead",
   "chicken is better",
+  ""i dont know" - celyn",
   "hop off",
   "fordnite",
   "im changing these quotes",
