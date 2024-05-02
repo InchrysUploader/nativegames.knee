@@ -632,7 +632,7 @@
   {
     "name": "Flappy Bird",
     "image": "img/thumb.png",
-    "url": "public/flappy-bird",
+    "url": "public/flappybird",
     "new": false
   },
   {
