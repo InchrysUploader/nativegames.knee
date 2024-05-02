@@ -8,259 +8,259 @@
   {
     "name": "1v1space",
     "image": "splash.png",
-    "url": "1v1space",
+    "url": "public/1v1space",
     "new": false
   },
   {
     "name": "10 Minutes Till Dawn",
     "image": "splash.png",
-    "url": "10-minutes-till-dawn",
+    "url": "public/10-minutes-till-dawn",
     "new": false
   },
   {
     "name": "100ng",
     "image": "100ng.jpg",
-    "url": "100ng",
+    "url": "public/100ng",
     "new": false
   },
   {
     "name": "2048",
     "image": "2048.png",
-    "url": "2048",
+    "url": "public/2048",
     "new": false
   },
   {
     "name": "2048 Multitask",
     "image": "splash.png",
-    "url": "2048-multitask",
+    "url": "public/2048-multitask",
     "new": false
   },
   {
     "name": "9007199254740992",
     "image": "logo-4.png",
-    "url": "9007199254740992",
+    "url": "public/9007199254740992",
     "new": false
   },
   {
     "name": "DogeMiner",
     "image": "favicon.ico",
-    "url": "DogeMiner",
+    "url": "public/DogeMiner",
     "new": false
   },
   {
     "name": "HexGL",
     "image": "icon.png",
-    "url": "HexGL",
+    "url": "public/HexGL",
     "new": false
   },
   {
     "name": "Offline Paradise",
     "image": "assets/icon.jpeg",
-    "url": "OfflineParadise",
+    "url": "public/OfflineParadise",
     "new": false
   },
   {
     "name": "Stickman Survival",
     "image": "Icon.png",
-    "url": "Stickman-Survival",
+    "url": "public/Stickman-Survival",
     "new": false
   },
   {
     "name": "A Dance of Fire and Ice",
     "image": "splash.png",
-    "url": "a-dance-of-fire-and-ice",
+    "url": "public/a-dance-of-fire-and-ice",
     "new": false
   },
   {
     "name": "Achievement Unlocked",
     "image": "achievementunlocked.png",
-    "url": "achievementunlocked",
+    "url": "public/achievementunlocked",
     "new": false
   },
   {
     "name": "A Dark Room",
     "image": "splash.png",
-    "url": "adarkroom",
+    "url": "public/adarkroom",
     "new": false
   },
   {
     "name": "Adrenaline Challenge",
     "image": "adrenalinechallenge.jpg",
-    "url": "adrenalinechallenge",
+    "url": "public/adrenalinechallenge",
     "new": false
   },
   {
     "name": "Adventure Drivers",
     "image": "splash.png",
-    "url": "adventure-drivers",
+    "url": "public/adventure-drivers",
     "new": false
   },
   {
     "name": "Ages of Conflict",
     "image": "splash.jpg",
-    "url": "ages-of-conflict",
+    "url": "public/ages-of-conflict",
     "new": false
   },
   {
     "name": "Alien Hominid",
     "image": "alienhominid.jpg",
-    "url": "alienhominid",
+    "url": "public/alienhominid",
     "new": false
   },
   {
     "name": "Align 4",
     "image": "board.png",
-    "url": "align-4",
+    "url": "public/align-4",
     "new": false
   },
   {
     "name": "Amidst the Clouds",
     "image": "splash.png",
-    "url": "amidst-the-clouds",
+    "url": "public/amidst-the-clouds",
     "new": false
   },
   {
     "name": "Among Us",
     "image": "red.png",
-    "url": "among-us",
+    "url": "public/among-us",
     "new": false
   },
   {
     "name": "Angry Sharks",
     "image": "assets/img/splash.png",
-    "url": "angry-sharks",
+    "url": "public/angry-sharks",
     "new": false
   },
   {
     "name": "Aquapark Slides",
     "image": "splash.png",
-    "url": "aquapark-slides",
+    "url": "public/aquapark-slides",
     "new": false
   },
   {
     "name": "Astray",
     "image": "splash.png",
-    "url": "astray",
+    "url": "public/astray",
     "new": false
   },
   {
     "name": "Avalanche",
     "image": "avalanche.png",
-    "url": "avalanche",
+    "url": "public/avalanche",
     "new": false
   },
   {
     "name": "Awesome Tanks 2",
     "image": "awesometanks2.jpg",
-    "url": "awesometanks2",
+    "url": "public/awesometanks2",
     "new": false
   },
   {
     "name": "Backrooms",
     "image": "img/splash.jpg",
-    "url": "backrooms",
+    "url": "public/backrooms",
     "new": false
   },
   {
     "name": "Bad Ice Cream",
     "image": "bad-ice-cream.png",
-    "url": "bad-ice-cream",
+    "url": "public/bad-ice-cream",
     "new": false
   },
   {
     "name": "Bad Ice Cream 2",
     "image": "bad-ice-cream-2.png",
-    "url": "bad-ice-cream-2",
+    "url": "public/bad-ice-cream-2",
     "new": false
   },
   {
     "name": "Bad Ice Cream 3",
     "image": "bad-ice-cream-3.png",
-    "url": "bad-ice-cream-3",
+    "url": "public/bad-ice-cream-3",
     "new": false
   },
   {
     "name": "Baldi's Basics",
     "image": "splash.png",
-    "url": "baldis-basics",
+    "url": "public/baldis-basics",
     "new": false
   },
   {
     "name": "Ballistic Chickens",
     "image": "logo.png",
-    "url": "ballistic-chickens",
+    "url": "public/ballistic-chickens",
     "new": false
   },
   {
     "name": "Basket Random",
     "image": "splash.jpeg",
-    "url": "basket-random",
+    "url": "public/basket-random",
     "new": false
   },
   {
     "name": "Basketball Stars",
     "image": "assets/images/basketball-stars.png",
-    "url": "basketball-stars",
+    "url": "public/basketball-stars",
     "new": false
   },
   {
     "name": "Basketbros.io",
     "image": "thumb.jpg",
-    "url": "basketbros-io",
+    "url": "public/basketbros-io",
     "new": false
   },
   {
     "name": "Battle for Gondor",
     "image": "battleforgondor.JPG",
-    "url": "battleforgondor",
+    "url": "public/battleforgondor",
     "new": false
   },
   {
     "name": "Big Red Button",
     "image": "bigredbutton.png",
-    "url": "bigredbutton",
+    "url": "public/bigredbutton",
     "new": false
   },
   {
     "name": "BitLife",
     "image": "splash.png",
-    "url": "bitlife",
+    "url": "public/bitlife",
     "new": false
   },
   {
     "name": "Black Hole Square",
     "image": "icon.png",
-    "url": "blacholesquare",
+    "url": "public/blacholesquare",
     "new": false
   },
   {
     "name": "Black Knight",
     "image": "blackknight.png",
-    "url": "blackknight",
+    "url": "public/blackknight",
     "new": false
   },
   {
     "name": "Bloons TD",
     "image": "bloonstd.jpg",
-    "url": "bloonstd",
+    "url": "public/bloonstd",
     "new": false
   },
   {
     "name": "Bloons TD 2",
     "image": "bloonstd2.png",
-    "url": "bloonstd2",
+    "url": "public/bloonstd2",
     "new": false
   },
   {
     "name": "Bloxors",
     "image": "title.png",
-    "url": "bloxors",
+    "url": "public/bloxors",
     "new": false
   },
   {
     "name": "BNTTS",
     "image": "icons/icon-256.png",
-    "url": "bntts",
+    "url": "public/bntts",
     "new": false
   },
   {
