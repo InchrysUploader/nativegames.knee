@@ -824,475 +824,475 @@
   {
     "name": "Impossible Quiz",
     "image": "impossiblequiz.png",
-    "url": "impossiblequiz",
+    "url": "public/impossiblequiz",
     "new": false
   },
   {
     "name": "Interactive Buddy",
     "image": "interactivebuddy.jpg",
-    "url": "interactivebuddy",
+    "url": "public/interactivebuddy",
     "new": false
   },
   {
     "name": "Jetpack Joyride",
     "image": "splash.jpg",
-    "url": "jetpack-joyride",
+    "url": "public/jetpack-joyride",
     "new": false
   },
   {
     "name": "Just Fall",
     "image": "unnamed.png",
-    "url": "just-fall",
+    "url": "public/just-fall",
     "new": false
   },
   {
     "name": "Just One Boss",
     "image": "pv1Gr5.png",
-    "url": "just-one-boss",
+    "url": "public/just-one-boss",
     "new": false
   },
   {
     "name": "Kitchen Gun Game",
     "image": "splash.png",
-    "url": "kitchen-gun-game",
+    "url": "public/kitchen-gun-game",
     "new": false
   },
   {
     "name": "Kitten Cannon",
     "image": "kittencannon.png",
-    "url": "kittencannon",
+    "url": "public/kittencannon",
     "new": false
   },
   {
     "name": "Knife Master",
     "image": "512x512.jpg",
-    "url": "knife-master",
+    "url": "public/knife-master",
     "new": false
   },
   {
     "name": "Krunker",
     "image": "img/krunker-io.jpg",
-    "url": "krunker",
+    "url": "public/krunker",
     "new": false
   },
   {
     "name": "Learn to Fly",
     "image": "learntofly.png",
-    "url": "learntofly",
+    "url": "public/learntofly",
     "new": false
   },
   {
     "name": "Learn to Fly 2",
     "image": "learn-to-fly-2.jpg",
-    "url": "learntofly2",
+    "url": "public/learntofly2",
     "new": false
   },
   {
     "name": "Madalin Stunt Cars 2",
     "image": "img/logo.jpg",
-    "url": "madalin-stunt-cars-2",
+    "url": "public/madalin-stunt-cars-2",
     "new": false
   },
   {
     "name": "Madalin Stunt Cars 3",
     "image": "img/index.jpg",
-    "url": "madalin-stunt-cars-3",
+    "url": "public/madalin-stunt-cars-3",
     "new": false
   },
   {
     "name": "Mario",
     "image": "Theme/Mario.gif",
-    "url": "mario",
+    "url": "public/mario",
     "new": false
   },
   {
     "name": "Marvin Spectrum",
     "image": "marvinspectrum.png",
-    "url": "marvinspectrum",
+    "url": "public/marvinspectrum",
     "new": false
   },
   {
     "name": "Matrix Rampage",
     "image": "matrixrampage.jpg",
-    "url": "matrixrampage",
+    "url": "public/matrixrampage",
     "new": false
   },
   {
     "name": "Meme 2048",
     "image": "img/hot.gif",
-    "url": "meme2048",
+    "url": "public/meme2048",
     "new": false
   },
   {
     "name": "Merge Round Racers",
     "image": "splash.png",
-    "url": "merge-round-racers",
+    "url": "public/merge-round-racers",
     "new": false
   },
   {
     "name": "Mine Blocks",
     "image": "splash.png",
-    "url": "mineblocks",
+    "url": "public/mineblocks",
     "new": false
   },
   {
     "name": "Minecraft 1.5",
     "image": "splash.jpeg",
-    "url": "minecraft-15",
+    "url": "public/minecraft-15",
     "new": false
   },
   {
     "name": "Minecraft 1.8",
     "image": "splash.png",
-    "url": "minecraft-18",
+    "url": "public/minecraft-18",
     "new": false
   },
   {
     "name": "Minecraft Classic",
     "image": "pack.png",
-    "url": "minecraft-classic",
+    "url": "public/minecraft-classic",
     "new": false
   },
   {
     "name": "Minecraft Beta",
     "image": "bg_main.png",
-    "url": "minecraftbeta",
+    "url": "public/minecraftbeta",
     "new": false
   },
   {
     "name": "Minesweeper",
     "image": "img/minesweeper.png",
-    "url": "minesweeper",
+    "url": "public/minesweeper",
     "new": false
   },
   {
     "name": "Mini Putt",
     "image": "miniputt.png",
-    "url": "miniputt",
+    "url": "public/miniputt",
     "new": false
   },
   {
     "name": "Missiles",
     "image": "miss.png",
-    "url": "missiles",
+    "url": "public/missiles",
     "new": false
   },
   {
     "name": "Moto X3M",
     "image": "splash.jpg",
-    "url": "motox3m",
+    "url": "public/motox3m",
     "new": false
   },
   {
     "name": "Moto X3M Pool",
     "image": "splash.jpg",
-    "url": "motox3m-pool",
+    "url": "public/motox3m-pool",
     "new": false
   },
   {
     "name": "Moto X3M Spooky",
     "image": "splash.jpeg",
-    "url": "motox3m-spooky",
+    "url": "public/motox3m-spooky",
     "new": false
   },
   {
     "name": "Moto X3M Winter",
     "image": "download.jpeg",
-    "url": "motox3m-winter",
+    "url": "public/motox3m-winter",
     "new": false
   },
   {
     "name": "Moto X3M 2",
     "image": "",
-    "url": "motox3m2",
+    "url": "public/motox3m2",
     "new": false
   },
   {
     "name": "My Rusty Submarine",
     "image": "splash.png",
-    "url": "my-rusty-submarine",
+    "url": "public/my-rusty-submarine",
     "new": false
   },
   {
     "name": "N-Gon",
     "image": "img/n-gonbot.png",
-    "url": "n-gon",
+    "url": "public/n-gon",
     "new": false
   },
   {
     "name": "Ninja",
     "image": "logo1.png",
-    "url": "ninja",
+    "url": "public/ninja",
     "new": false
   },
   {
     "name": "Ninja vs Evil Corp",
     "image": "splash.png",
-    "url": "ninjavsevilcorp",
+    "url": "public/ninjavsevilcorp",
     "new": false
   },
   {
     "name": "Noob Steve Parkour",
     "image": "512x512.jpg",
-    "url": "noob-steve-parkour",
+    "url": "public/noob-steve-parkour",
     "new": false
   },
   {
     "name": "NS Shaft",
     "image": "favicon.png",
-    "url": "ns-shaft",
+    "url": "public/ns-shaft",
     "new": false
   },
   {
     "name": "NS Resurgence",
     "image": "neon.png",
-    "url": "nsresurgence",
+    "url": "public/nsresurgence",
     "new": false
   },
   {
     "name": "Om Bounce",
     "image": "assets/icon.jpeg",
-    "url": "om-bounce",
+    "url": "public/om-bounce",
     "new": false
   },
   {
     "name": "OVO",
     "image": "ovo3.png",
-    "url": "ovo",
+    "url": "public/ovo",
     "new": false
   },
   {
     "name": "Pandemic 2",
     "image": "pandemic2.png",
-    "url": "pandemic2",
+    "url": "public/pandemic2",
     "new": false
   },
   {
     "name": "Papa's Burgeria",
     "image": "splash.jpg",
-    "url": "papasburgeria",
+    "url": "public/papasburgeria",
     "new": false
   },
   {
     "name": "Papa's Pizzeria",
     "image": "papaspizzaria.jpg",
-    "url": "papaspizzaria",
+    "url": "public/papaspizzaria",
     "new": false
   },
   {
     "name": "Paper.io 2",
     "image": "images/icon512.png",
-    "url": "paperio2",
+    "url": "public/paperio2",
     "new": false
   },
   {
     "name": "Papery Planes",
     "image": "splash.jpg",
-    "url": "papery-planes",
+    "url": "public/papery-planes",
     "new": false
   },
   {
     "name": "Particle Clicker",
     "image": "assets/pc32@2x.png",
-    "url": "particle-clicker",
+    "url": "public/particle-clicker",
     "new": false
   },
   {
     "name": "Pixel Gun Survival",
     "image": "512x512.png",
-    "url": "pixel-gun-survival",
+    "url": "public/pixel-gun-survival",
     "new": false
   },
   {
     "name": "Polybranch",
     "image": "img/pic1.png",
-    "url": "polybranch",
+    "url": "public/polybranch",
     "new": false
   },
   {
     "name": "Popcat Classic",
     "image": "android-chrome-512x512.png",
-    "url": "popcat-classic",
+    "url": "public/popcat-classic",
     "new": false
   },
   {
     "name": "Portal Flash",
     "image": "portaltheflashversion.jpg",
-    "url": "portalflash",
+    "url": "public/portalflash",
     "new": false
   },
   {
     "name": "Precision Client",
     "image": "logo.png",
-    "url": "precision-client",
+    "url": "public/precision-client",
     "new": false
   },
   {
     "name": "Protektor",
     "image": "splash.jpg",
-    "url": "protektor",
+    "url": "public/protektor",
     "new": false
   },
   {
     "name": "Push the Square",
     "image": "img/splash.png",
-    "url": "push-the-square",
+    "url": "public/push-the-square",
     "new": false
   },
   {
     "name": "Push Your Luck",
     "image": "assets/img/push.png",
-    "url": "push-your-luck",
+    "url": "public/push-your-luck",
     "new": false
   },
   {
     "name": "Rabbit Samurai",
     "image": "splash.png",
-    "url": "rabbit-samurai",
+    "url": "public/rabbit-samurai",
     "new": false
   },
   {
     "name": "Rabbit Samurai 2",
     "image": "splash.png",
-    "url": "rabbit-samurai2",
+    "url": "public/rabbit-samurai2",
     "new": false
   },
   {
     "name": "Resent Client",
     "image": "splash.jpg",
-    "url": "resent-client",
+    "url": "public/resent-client",
     "new": false
   },
   {
     "name": "Retro Bowl",
     "image": "img/icon.jpg",
-    "url": "retro-bowl",
+    "url": "public/retro-bowl",
     "new": false
   },
   {
     "name": "Riddle School",
     "image": "riddleschool.png",
-    "url": "riddleschool",
+    "url": "public/riddleschool",
     "new": false
   },
   {
     "name": "Riddle School 2",
     "image": "riddleschool2.png",
-    "url": "riddleschool2",
+    "url": "public/riddleschool2",
     "new": false
   },
   {
     "name": "Riddle School 3",
     "image": "riddleschool3.png",
-    "url": "riddleschool3",
+    "url": "public/riddleschool3",
     "new": false
   },
   {
     "name": "Riddle School 4",
     "image": "riddleschool4.png",
-    "url": "riddleschool4",
+    "url": "public/riddleschool4",
     "new": false
   },
   {
     "name": "Riddle School 5",
     "image": "riddleschool5.png",
-    "url": "riddleschool5",
+    "url": "public/riddleschool5",
     "new": false
   },
   {
     "name": "Riddle Transfer",
     "image": "riddletransfer.png",
-    "url": "riddletransfer",
+    "url": "public/riddletransfer",
     "new": false
   },
   {
     "name": "Riddle Transfer 2",
     "image": "riddletransfer2.png",
-    "url": "riddletransfer2",
+    "url": "public/riddletransfer2",
     "new": false
   },
   {
     "name": "Rolling Forests",
     "image": "icon.png",
-    "url": "rollingforests",
+    "url": "public/rollingforests",
     "new": false
   },
   {
     "name": "Rolly Vortex",
     "image": "icon-256.png",
-    "url": "rolly-vortex",
+    "url": "public/rolly-vortex",
     "new": false
   },
   {
     "name": "Rooftop Snipers",
     "image": "img/thumb.png",
-    "url": "rooftop-snipers",
+    "url": "public/rooftop-snipers",
     "new": false
   },
   {
     "name": "Ruffle",
     "image": "splash.png",
-    "url": "ruffle",
+    "url": "public/ruffle",
     "new": false
   },
   {
     "name": "Spank The Monkey",
     "image": "spank-the-monkey.jpg",
-    "url": "spank-the-monkey",
+    "url": "public/spank-the-monkey",
     "new": false
   },
   {
     "name": "Sand Game",
     "image": "sand-game.PNG",
-    "url": "sand-game",
+    "url": "public/sand-game",
     "new": false
   },
   {
     "name": "Sandboxels",
     "image": "sandboxels.jpg",
-    "url": "sandboxels",
+    "url": "public/sandboxels",
     "new": false
   },
   {
     "name": "Santy is Home",
     "image": "splash.png",
-    "url": "santy-is-home",
+    "url": "public/santy-is-home",
     "new": false
   },
   {
     "name": "Scrap Metal",
     "image": "img/splash.png",
-    "url": "scrapmetal",
+    "url": "public/scrapmetal",
     "new": false
   },
   {
     "name": "Shell Shockers",
     "image": "img/favicon.png",
-    "url": "shellshockers",
+    "url": "public/shellshockers",
     "new": false
   },
   {
     "name": "Shot in the Dark",
     "image": "shot.png",
-    "url": "shotinthedark",
+    "url": "public/shotinthedark",
     "new": false
   },
   {
     "name": "Shuttle Deck",
     "image": "splash.png",
-    "url": "shuttledeck",
+    "url": "public/shuttledeck",
     "new": false
   },
   {
     "name": "Sky Car Stunt",
     "image": "512x512.jpg",
-    "url": "sky-car-stunt",
+    "url": "public/sky-car-stunt",
     "new": false
   },
   {
     "name": "Sleeping Beauty",
     "image": "",
-    "url": "splash.png",
+    "url": "public/splash.png",
     "new": false
   },
   {
