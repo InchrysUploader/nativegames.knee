@@ -1003,7 +1003,7 @@
   },
   {
     "name": "Moto X3M 2",
-    "image": "",
+    "image": "images.jpeg",
     "url": "public/motox3m2",
     "new": false
   },
@@ -1237,7 +1237,7 @@
   },
   {
     "name": "Spank The Monkey",
-    "image": "spank-the-monkey.jpg",
+    "image": "img2.png",
     "url": "public/spank-the-monkey",
     "new": false
   },
@@ -1699,7 +1699,7 @@
   },
   {
     "name": "WebRetro",
-    "image": "",
+    "image": "images.png",
     "url": "public/webretro",
     "new": false
   },
