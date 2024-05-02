@@ -632,7 +632,7 @@
   {
     "name": "Flappy Bird",
     "image": "img/thumb.png",
-    "url": "public/flappybird",
+    "url": "public/flappy-bird",
     "new": false
   },
   {
@@ -1214,7 +1214,7 @@
   {
     "name": "Rolling Forests",
     "image": "icon.png",
-    "url": "public/rollingforests",
+    "url": "public/rolling-forests",
     "new": false
   },
   {
@@ -1238,7 +1238,7 @@
   {
     "name": "Spank The Monkey",
     "image": "spank-the-monkey.jpg",
-    "url": "public/spank-the-monkey",
+    "url": "public/slap-the-monkey",
     "new": false
   },
   {
@@ -1322,7 +1322,7 @@
   {
     "name": "Super Mario 64 (SM64)",
     "image": "logo.png",
-    "url": "public/supermario64",
+    "url": "public/sm64",
     "new": false
   },
   {
@@ -1358,7 +1358,7 @@
   {
     "name": "Soldier Legend",
     "image": "images/logo.jpg",
-    "url": "public/soldierlegend",
+    "url": "public/soldier-legend",
     "new": false
   },
   {
@@ -1382,7 +1382,7 @@
   {
     "name": "Space Company",
     "image": "whiteLogo.png",
-    "url": "public/spacecompany",
+    "url": "public/space-company",
     "new": false
   },
   {
@@ -1544,25 +1544,25 @@
   {
     "name": "Tanuki Sunset",
     "image": "img/logo.png",
-    "url": "public/tanukisunset",
+    "url": "public/tanuki-sunset",
     "new": false
   },
   {
     "name": "Temple Run 2",
     "image": "img/temple-run-2-256.png",
-    "url": "public/templerun2",
+    "url": "public/temple-run-2",
     "new": false
   },
   {
     "name": "The Final Earth",
     "image": "images.png",
-    "url": "public/thefinalearth",
+    "url": "public/the-final-earth",
     "new": false
   },
   {
     "name": "The Hotel",
     "image": "splash.png",
-    "url": "public/thehotel",
+    "url": "public/the-hotel",
     "new": false
   },
   {
@@ -1694,7 +1694,7 @@
   {
     "name": "WebGL Fluid Simulation",
     "image": "promo_back.png",
-    "url": "public/webglfluidsimulation",
+    "url": "public/webgl-fluid-simulation",
     "new": false
   },
   {
