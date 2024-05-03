@@ -155,9 +155,25 @@ var textOptions = [
   "hi guys",
   "the most sigma game site",
   "vercel on top!",
-  "rip coolio",
-  "rip juice",
-  "rip xxx"
+  "pvz stands for p*nis vs zombies",
+  "i hate emo people",
+  "pedophile and kids: mr barone",
+  "vail vr on top",
+  "i like little kids (as friends of course",
+  "sambucha is a racist",
+  "matthew dablo",
+  "immagrants need to go back",
+  "fatima needs to jump off a bridge",
+  "this bridge is lookin real scrumptious right now",
+  "i love eating windows 10",
+  "these quotes are a fever dream",
+  "mr alseph on top!",
+  "mr alseph getting rizzy",
+  "member quotes server edition",
+  "should i make a company called hyatt labs?",
+  "bisexual orphans",
+  "pigs are in gta 6",
+  "MY ROBLOX USER NAME IS OOFER JUNIOPR UNDERSCORE PRO ON ROBLOX - some loser in 3rd grade"
 ];
 
 function getRandomIndex(max) {
