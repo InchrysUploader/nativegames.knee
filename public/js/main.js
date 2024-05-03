@@ -172,7 +172,10 @@ var textOptions = [
   "bisexual orphans",
   "pigs are in gta 6",
   "MY ROBLOX USER NAME IS OOFER JUNIOPR UNDERSCORE PRO ON ROBLOX - some loser in 3rd grade",
-  "emory has a small tv"
+  "emory has a small tv (and pp)",
+  "riley has a gyatt",
+  "my friend is about to finger me",
+  "skibidi toilet will be mine yeah"
 ];
 
 function getRandomIndex(max) {
