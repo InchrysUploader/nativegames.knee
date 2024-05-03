@@ -109,7 +109,6 @@ document.addEventListener("DOMContentLoaded", function () {
 
 var textOptions = [
   "Ewww gay people whats that",
-  "Rip 1nCH!",
   "Now with a hyatt!",
   "please mr whitby, stop blocking these 🥺",
   "The best site for procrastination",
@@ -121,10 +120,9 @@ var textOptions = [
   "insert water here, it goes to africa trust",
   "autism at its finest!",
   "blocked!",
-  "Welcome To my website",
   "Did you know we are open wide? i love food.",
   "https://discord.gg/sigmas",
-  "404: emorys dad not found.",
+  "404: abdiels dad not found.",
   "my crush is github",
   "Ctrl + Alt + Delete your family.",
   "Oops! I broke it again. - any dev ever",
@@ -138,7 +136,7 @@ var textOptions = [
   "404: jews not found - soem guy in 1940",
   "technoblade never dies",
   "about:full on bottom",
-  "this class is more absent than my father",
+  "this class is more absent than my father - ms smith",
   "cats are almost better",
   "thx guys",
   "Yup this is a sigma.",
@@ -148,7 +146,7 @@ var textOptions = [
   "hop off",
   "fordnite",
   "im changing these quotes",
-  "bro i ate a dog! - darin",
+  "mmmh that dog was scrumptious - darin",
   "i inserted my meat into the toaster - ms milstead",
   "i love meat in my mouth - mr whitby",
   "sigma",
@@ -173,7 +171,8 @@ var textOptions = [
   "should i make a company called hyatt labs?",
   "bisexual orphans",
   "pigs are in gta 6",
-  "MY ROBLOX USER NAME IS OOFER JUNIOPR UNDERSCORE PRO ON ROBLOX - some loser in 3rd grade"
+  "MY ROBLOX USER NAME IS OOFER JUNIOPR UNDERSCORE PRO ON ROBLOX - some loser in 3rd grade",
+  "emory has a small tv"
 ];
 
 function getRandomIndex(max) {
