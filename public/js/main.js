@@ -130,6 +130,7 @@ var textOptions = [
   "Ctrl+Z is my favorite key combo. - cool people",
   "hop on the website",
   "chase gets no girls",
+  "'Ermmm, actually' - James Burriesci",
   "I sure do love CP (cheese pizza)",
   "chromebooks? nah",
   "who is mr smith???",
