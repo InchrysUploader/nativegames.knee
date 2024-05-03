@@ -132,10 +132,10 @@ var textOptions = [
   "Ctrl+Z is my favorite key combo. - cool people",
   "hop on the website",
   "chase gets no girls",
-  "I sure do love CP",
+  "I sure do love CP (cheese pizza)",
   "chromebooks? nah",
   "who is mr smith???",
-  ""404: jews not found" - soem guy in 1940",
+  "404: jews not found - soem guy in 1940",
   "technoblade never dies",
   "about:full on bottom",
   "this class is more absent than my father",
@@ -144,7 +144,7 @@ var textOptions = [
   "Yup this is a sigma.",
   "worse than rammerhead",
   "chicken is better",
-  ""i dont know" - celyn",
+  "i dont know - celyn",
   "hop off",
   "fordnite",
   "im changing these quotes",
@@ -157,8 +157,7 @@ var textOptions = [
   "vercel on top!",
   "rip coolio",
   "rip juice",
-  "rip xxx",
-  "
+  "rip xxx"
 ];
 
 function getRandomIndex(max) {
