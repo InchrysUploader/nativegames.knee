@@ -168,7 +168,7 @@ var textOptions = [
   "my friend is about to finger me",
   "skibidi toilet will be mine yeah",
   "osama bin laden is my uncle - jabrail",
-  "'before i played bonelab, i had a boner; after i played bonelab, i was the boner' - me"
+  "before i played bonelab, i had a boner; after i played bonelab, i was the boner - me",
   "nobody is listen to evil empire",
   "kendrick is winning fr",
   "im as straight as a circle",
@@ -177,7 +177,7 @@ var textOptions = [
   "kinito is bonito",
   "racism isnt a hobby",
   "my grandma eats children (so do i)",
-  "'lets eat grandma' 💀",
+  "lets eat grandma 💀",
   "cumshot roulette",
   "i feel bad for vercel",
   "cp is my childhood - abdiel (club penguin)",
