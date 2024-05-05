@@ -148,7 +148,7 @@ var textOptions = [
   "pvz stands for p*nis vs zombies",
   "i hate emo people",
   "pedophile and kids: mr barone",
-  "i like little kids (as friends of course",
+  "i like little kids (as friends of course)",
   "sambucha is a racist",
   "matthew dablo",
   "immigrants need to go back",
@@ -166,7 +166,25 @@ var textOptions = [
   "emory has a small tv (and pp)",
   "riley has a gyatt",
   "my friend is about to finger me",
-  "skibidi toilet will be mine yeah"
+  "skibidi toilet will be mine yeah",
+  "osama bin laden is my uncle - jabrail",
+  "'before i played bonelab, i had a boner; after i played bonelab, i was the boner' - me"
+  "nobody is listen to evil empire",
+  "kendrick is winning fr",
+  "im as straight as a circle",
+  "i like both types of zoo",
+  "skeebody",
+  "kinito is bonito",
+  "racism isnt a hobby",
+  "my grandma eats children (so do i)",
+  "'lets eat grandma' 💀",
+  "cumshot roulette",
+  "i feel bad for vercel",
+  "cp is my childhood - abdiel (club penguin)",
+  "i use all my money for cp (call of duty points)",
+  "go go go go",
+  "my twitter account is zornycheese",
+  "my name is Alex Knoll"
 ];
 
 function getRandomIndex(max) {
