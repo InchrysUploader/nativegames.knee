@@ -181,7 +181,7 @@ var textOptions = [
   "logan acts like a 2 year old child",
   "zack's adhd probably isnt even bad",
   "kinito is bonito",
-  "racism isnt a hobby",
+  "racism isnt a hobby, its a career",
   "my grandma eats children (so do i)",
   "lets eat grandma 💀",
   "cumshot roulette",
