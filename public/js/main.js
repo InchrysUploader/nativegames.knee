@@ -169,7 +169,7 @@ var textOptions = [
   "skibidi toilet will be mine yeah",
   "osama bin laden is my uncle - jabrail",
   "before i played bonelab, i had a boner; after i played bonelab, i was the boner - me",
-  "nobody is listen to evil empire",
+  "nobody is listening to evil empire",
   "kendrick is winning fr",
   "im as straight as a circle",
   "i like both types of zoo",
